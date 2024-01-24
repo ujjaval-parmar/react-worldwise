@@ -1,8 +1,4 @@
-# React + Vite
+Worldwise : React app that add marks on map and add notes about places where you have travelled!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screen-shot](https://github.com/ujjaval-parmar/react-worldwise/assets/154329143/ffb770c5-e4df-4f0b-b2ce-42cc1f17ae6f)
